@@ -1,3 +1,3 @@
 # SQLProgress  
 
-Working with SQL
+Working with SQL queries

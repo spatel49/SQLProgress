@@ -1,1 +1,3 @@
-# SQLProgress
+# SQLProgress  
+
+Working with SQL
